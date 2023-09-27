@@ -21,6 +21,45 @@
 </table>
 <br />
 
+### 개발스택
+- LANGUAGE : <img src="https://img.shields.io/badge/JAVA 17-blue?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-orange?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
+- FRAMEWORK : <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=flat&logo=spring&logoColor=white"/> 
+- DB : <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+- SECURITY : <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
+- BULID : <img src="https://img.shields.io/badge/Maven-light purple?style=flat&logo=maven&logoColor=white"/>
+- TOOL : <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
+- ORM : <img src="https://img.shields.io/badge/Spring JPA-6DB33F?style=flat&logo=spring&logoColor=white"/>
+- API : 알라딘 API
+<br />
+
+### 담당 파트 상세내역
+> 팀장 : 이문수
+  - 회의진행, 일정관리 조율
+  - 깃 허브 관리 AWS 배포
+  - 도서검색 기능 _ 도서검색 / 인기검색어 / 추천검색어
+  - 도서카테고리 분류 구현
+  - 도서 상세페이지 구현 _ 도서 결제시스템 / 도서 찜하기
+  - 대여 내역 및 이용권 관리 기능 구현
+  - 문의하기 기능 구현 _ 문의내역 리스트 / 문의 답변하기
+  - 검색키워드 / 대출내역 관리페이지 구현
+
+> 팀원 : 이진우
+  - 회원가입 페이지 구현 _ 주소 api 활용 우편번호 검색기능 추가
+  - 로그인 기능 구현 _ 자체 / 소셜 / 자동로그인
+  - 아이디 / 비밀번호 찾기 기능 구현
+  - 개인정보 수정 페이지 구현
+  - 회원정보 관리페이지 구현
+
+> 팀원 : 최보현
+  - 전체 디자인 설계(메인페이지 / 문의하기 / 관리페이지 등)
+  - 메인페이지 구현 _ 공지사항 / 이미지슬라이드 / 북티빙Top10 / NEW북티빙 / 서점베스트셀러
+  - 추천작가 리스트, 상세페이지 구현
+  - 도서 상세페이지 구현
+  - 문의 안내페이지 구현
+  - 나의 서재 _ 메인페이지 / 나의 챌린지 / 대여도서 상세페이지
+  - 공지사항 목록 페이지 구현 
+  - 관리페이지 _ 추천작가 등록 / 공지사항 등록
+
 ------------
 
 ### [참고 사이트(밀리의 서재)](http://www.millie.co.kr/)
