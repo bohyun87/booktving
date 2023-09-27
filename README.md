@@ -7,7 +7,7 @@
 
 # booktving
 > 밀리의서재를 참고하여 "알라딘 open api"를 활용해서 만든 도서 구독 사이트
-
+<br />
 ## 팀원
 <table>
   <tbody>
@@ -26,6 +26,7 @@
 ### [요구사항 정의서](https://docs.google.com/spreadsheets/d/1GHInQ2hytFaNt6-YlhG3UXCae5jtfOmglhQbD_xud9c/edit#gid=0)
 ### Use-Case
 <img align="left" width="587" alt="project-logo-readme" src="https://github.com/leejinwoo3/Feane/assets/130732028/644c9173-cd12-4c23-b3d5-13881598fd59">
+<br />
 ### [ERD](https://www.erdcloud.com/d/vtt54ZFAgGEN9bXY2)
 <img align="left" width="587" alt="project-logo-readme" src="https://github.com/leejinwoo3/Feane/assets/130732028/69fc6bb8-fc25-46f1-8a4e-bd1cdc1e3795">
 <br />
