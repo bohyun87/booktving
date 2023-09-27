@@ -8,7 +8,6 @@
       <td align="center"><a href="https://github.com/lms8262"><img src="https://avatars.githubusercontent.com/u/130732104?v=4" width="100px;" alt=""/><br /><sub><b>팀장 : 이문수</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/bohyun87"><img src="https://avatars.githubusercontent.com/u/130732028?v=4" width="100px;" alt=""/><br /><sub><b>팀원 : 최보현</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/leejinwoo3"><img src="https://avatars.githubusercontent.com/u/128760115?v=4" width="100px;" alt=""/><br /><sub><b>팀원 : 이진우</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/Jiyeon2411"><img src="https://avatars.githubusercontent.com/u/78262928?v=4" width="100px;" alt=""/><br /><sub><b>팀원 : 이지연</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
