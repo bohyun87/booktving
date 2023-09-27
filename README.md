@@ -21,6 +21,8 @@
 </table>
 <br />
 
+------------
+
 ### [참고 사이트(밀리의 서재)](http://www.millie.co.kr/)
 ### [간트 차트](https://docs.google.com/spreadsheets/d/1NYfI7IhpLMRP85bYwxvtnxYl_mfT21Sg8ZD4KBnFC8s/edit#gid=1115838130)
 ### [화면설계](https://www.figma.com/file/r9NOAzrgxiPla0cTqo88rG/5%EC%A1%B0-EZEN-%EB%B6%81%ED%8B%B0%EB%B9%99%EC%8B%9C%EB%8C%80?type=design&node-id=0%3A1&mode=design&t=l5NotgHV2Hbwfywy-1)
@@ -28,7 +30,9 @@
 ### Use-Case
 <img align="left" width="587" alt="project-logo-readme" src="https://github.com/leejinwoo3/Feane/assets/130732028/644c9173-cd12-4c23-b3d5-13881598fd59">
 <br />
+
 ### [ERD](https://www.erdcloud.com/d/vtt54ZFAgGEN9bXY2)
 <img align="left" width="587" alt="project-logo-readme" src="https://github.com/leejinwoo3/Feane/assets/130732028/69fc6bb8-fc25-46f1-8a4e-bd1cdc1e3795">
 <br />
+
 ------------
