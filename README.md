@@ -73,8 +73,6 @@
 
 ### Use-Case
 <img width="600" src="https://github.com/leejinwoo3/Feane/assets/130732028/644c9173-cd12-4c23-b3d5-13881598fd59">
-<br />
-
 
 ### ERD
 <img width="600" src="https://github.com/leejinwoo3/Feane/assets/130732028/69fc6bb8-fc25-46f1-8a4e-bd1cdc1e3795">
