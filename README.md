@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" height="200" alt="project-logo-readme" src="https://github.com/leejinwoo3/Feane/assets/130732028/77ff4edd-51a0-4841-8556-de35e1ff72be">
+  <img align="center" height="100" alt="project-logo-readme" src="https://github.com/leejinwoo3/Feane/assets/130732028/77ff4edd-51a0-4841-8556-de35e1ff72be">
   <h1>팀프로젝트 : 온라인 도서대여 서비스</h1>
 </div>
 <br />
