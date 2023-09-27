@@ -36,7 +36,7 @@
 
 ------------
 
-### [ERD](https://www.erdcloud.com/d/vtt54ZFAgGEN9bXY2)
+### ERD
 <img align="left" width="587" alt="project-logo-readme" src="https://github.com/leejinwoo3/Feane/assets/130732028/69fc6bb8-fc25-46f1-8a4e-bd1cdc1e3795">
 <br />
 
