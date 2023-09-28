@@ -29,7 +29,7 @@
 - BULID : <img src="https://img.shields.io/badge/Maven-light purple?style=flat&logo=maven&logoColor=white"/>
 - TOOL : <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
 - ORM : <img src="https://img.shields.io/badge/Spring JPA-6DB33F?style=flat&logo=spring&logoColor=white"/>
-- API : 알라딘 API
+- API : 알라딘 open api
 <br />
 
 ## 담당 파트 상세내역
