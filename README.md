@@ -77,3 +77,11 @@
 ### ERD
 <img width="600" src="https://github.com/leejinwoo3/Feane/assets/130732028/69fc6bb8-fc25-46f1-8a4e-bd1cdc1e3795">
 <br />
+
+------------
+
+### 프로젝트 기여도
+<img width="600" src="https://github.com/lms8262/booktving/assets/130732028/10c88142-a24e-4978-bc6e-998f5b592c60">
+
+### 프로젝트 협업용 git
+<a href="https://github.com/lms8262/booktving.git">이젠북티빙시대 git 링</a>
