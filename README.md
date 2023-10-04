@@ -81,7 +81,7 @@
 ------------
 
 ### 프로젝트 기여도
-<img width="600" src="https://github.com/lms8262/booktving/assets/130732028/10c88142-a24e-4978-bc6e-998f5b592c60">
+<img width="600" src="https://github.com/lms8262/booktving/assets/130732028/b2ed567b-2af5-4f13-9aac-f73a2ab7e2a9">
 
 ### 프로젝트 협업용 git
 <a href="https://github.com/lms8262/booktving.git">이젠북티빙시대 git 링</a>
